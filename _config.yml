@@ -17,7 +17,7 @@ title: Ray's Rathole
 email: rayraspberry@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my awesome new blog!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://rayraspberry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rayraspberry1
 github_username: rayraspberry
